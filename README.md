@@ -14,5 +14,5 @@
 ## 🌿Статистика
 <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko" />
 <a href="https://github.com/HekaHub/HekaHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=030603" />
 </a>
