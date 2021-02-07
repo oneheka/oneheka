@@ -1,6 +1,6 @@
 # Привет!
 
-### 🔧Языки программирования
+### 🍃Языки программирования
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![HTML5](https://shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
