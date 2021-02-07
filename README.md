@@ -1,6 +1,6 @@
 # Привет!
 
-[![Youtube](https://cdn.discordapp.com/attachments/791153280608501800/807996543063162902/77781-logo-computer-youtube-icons-free-download-png-hd.png "Youtube")](https://www.youtube.com/channel/UC_wEPv-0-hRwsUZh577pPxw)
+В данном блоге, вы можете увидить качественного сделаного бота. Бот радует как функционалом, так и оформлением. Все создание бота вы можете увидить на моем [youtube](https://www.youtube.com/channel/UC_wEPv-0-hRwsUZh577pPxw) канале.
 ### 🍃Языки программирования
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
