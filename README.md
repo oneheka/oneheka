@@ -1,5 +1,6 @@
 # Привет!
 
+- В данном блоге, я создаю качественно сделаного dsicord бота, чтобы он был радовал как функционалом так и внешностью. Вы можете посмотреть всю разработку бота на моем ![YouTube](https://cdn.discordapp.com/attachments/791153280608501800/807996543063162902/77781-logo-computer-youtube-icons-free-download-png-hd.png) канале.
 ### 🍃Языки программирования
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
