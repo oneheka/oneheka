@@ -16,3 +16,6 @@
 <a href="https://github.com/HekaHub/HekaHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=060906" />
 </a>
+<a href="https://github.com/HekaHub/discord-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HekaHub&repo=discord-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=060906" />
+</a>
