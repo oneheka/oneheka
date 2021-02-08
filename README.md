@@ -11,7 +11,7 @@
 ![Repl.it](https://shields.io/badge/-Repl.it-090909?style=for-the-badge&logo=repl.it)
 <br>
 ## 📊Статистика
-<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko&bg_color=060906" />
+<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=tokyonight&bg_color=060906" />
 <a href="https://github.com/HekaHub/HekaHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=060906" />
 </a>
