@@ -3,7 +3,6 @@
 В данном блоге, вы можете увидить качественного сделаного бота. Бот радует как функционалом, так и оформлением. Все создание бота вы можете увидить на моем [youtube](https://www.youtube.com/channel/UC_wEPv-0-hRwsUZh577pPxw) канале.
 ### 🍃Языки программирования
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![HTML5](https://shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=0078be)
 <br>
