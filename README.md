@@ -16,7 +16,7 @@
 <a href="https://github.com/HekaHub/HekaHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=010101" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Heka's github stats](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/HekaHub/discord-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HekaHub&repo=discord-bot&title_color=9c3&text_color=fff&icon_color=9c6&bg_color=010101" />
 </a>
