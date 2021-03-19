@@ -12,7 +12,6 @@
 ![Repl.it](https://shields.io/badge/-Repl.it-090909?style=for-the-badge&logo=repl.it)
 
 ### Статистика
-<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko&bg_color=010101" />
 ![Heka's github stats](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko&bg_color=010101) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&show_icons=true&theme=merko&bg_color=010101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Главные проекты
