@@ -11,10 +11,11 @@
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=19b5f6)
 ![Repl.it](https://shields.io/badge/-Repl.it-090909?style=for-the-badge&logo=repl.it)
 
-## Статистика
+### Статистика
 <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko&bg_color=010101" />
 ![Heka's github stats](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko&bg_color=010101) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&show_icons=true&theme=merko&bg_color=010101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Главные проекты
 <a href="https://github.com/HekaHub/HekaHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=010101" />
 </a>
