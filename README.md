@@ -21,4 +21,4 @@
 </a>
 
 ### 📊 Вот немного моей статистики GitHub
-![Haloger7's github stats](https://github-readme-stats.vercel.app/api?username=Haloger7&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haloger7&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Heka's github stats](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haloger7&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
