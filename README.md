@@ -16,7 +16,9 @@
 <a href="https://github.com/HekaHub/HekaHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=010101" />
 </a>
-![Heka's github stats](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/HekaHub/discord-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HekaHub&repo=discord-bot&title_color=9c3&text_color=fff&icon_color=9c6&bg_color=010101" />
 </a>
+
+### 📊 Вот немного моей статистики GitHub
+![Haloger7's github stats](https://github-readme-stats.vercel.app/api?username=Haloger7&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haloger7&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
