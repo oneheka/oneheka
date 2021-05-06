@@ -13,12 +13,3 @@
 
 ## Статистика
 ![Heka's github stats](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko&bg_color=010101) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&show_icons=true&theme=merko&bg_color=010101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Главные проекты
-<a href="https://github.com/HekaHub/discord-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HekaHub&repo=discord-bot&title_color=9c3&text_color=fff&icon_color=9c6&bg_color=010101" />
-</a>
-
-<a href="https://github.com/HekaHub/discord-bot-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HekaHub&repo=discord-bot-python&title_color=9c3&text_color=fff&icon_color=9c6&bg_color=010101" />
-</a>
