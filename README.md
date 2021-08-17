@@ -3,3 +3,4 @@
 ## Languages & Tools
 ![JavaScript](https://shields.io/badge/-JavaScript-ecb22f?style=flat-square&logo=javascript&logoColor=ffffff)
 ![NodeJS](https://shields.io/badge/-NodeJS-448543?style=flat-square&logo=node.js&logoColor=ffffff)
+![NPM](https://shields.io/badge/-NPM-ca3a3a?style=flat-square&logo=npm&logoColor=ffffff)
