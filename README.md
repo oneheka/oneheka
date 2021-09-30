@@ -11,4 +11,4 @@
 ![GitHub](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&layout=compact&theme=material-palenight)](https://github.com/HekaHub/github-readme-stats)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/n9ji34hdhq7m7k8a0j2fz38aj?si=5d684c8ac086472c)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/n9ji34hdhq7m7k8a0j2fz38aj)
