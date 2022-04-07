@@ -2,6 +2,7 @@
 <img src='https://cdn.discordapp.com/attachments/951697286470201384/961665517628842064/-1rgewegrgre.png'>
 
 # Languages and Tools:
+![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=e9d54d)
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![HTML](https://shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
