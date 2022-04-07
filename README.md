@@ -3,7 +3,7 @@
 
 # Languages and Tools:
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=e9d54d)
-![NodeJS](https://shields.io/badge/-NodeJS-448543?style=flat-square&logo=node.js&logoColor=ffffff)
+![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![HTML](https://shields.io/badge/-HTML5-e2512f?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://shields.io/badge/-CSS3-245a93?style=flat-square&logo=css3&logoColor=ffffff)
 ![NPM](https://shields.io/badge/-NPM-ca3a3a?style=flat-square&logo=npm&logoColor=ffffff)
