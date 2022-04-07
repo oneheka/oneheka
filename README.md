@@ -9,7 +9,7 @@
 ![HTML](https://shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=2966c2)
 ![NPM](https://shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM)
-![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongo)
+![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongo.db)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
 ## Github Stats
 ![GitHub](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko)
