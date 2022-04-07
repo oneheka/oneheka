@@ -1,7 +1,7 @@
 ## Welcome to my profile 👋
 <img src='https://cdn.discordapp.com/attachments/951697286470201384/961665517628842064/-1rgewegrgre.png'>
 
-## Languages & Tools
+> Languages and Tools:
 ![JavaScript](https://shields.io/badge/-JavaScript-ecab19?style=flat-square&logo=javascript&logoColor=ffffff)
 ![NodeJS](https://shields.io/badge/-NodeJS-448543?style=flat-square&logo=node.js&logoColor=ffffff)
 ![HTML](https://shields.io/badge/-HTML5-e2512f?style=flat-square&logo=html5&logoColor=ffffff)
