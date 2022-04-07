@@ -8,5 +8,5 @@
 ![NPM](https://shields.io/badge/-NPM-ca3a3a?style=flat-square&logo=npm&logoColor=ffffff)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-3a7aaf?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ## Github Stats
-![GitHub](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&layout=compact&theme=material-palenight)](https://github.com/HekaHub/github-readme-stats)
+![GitHub](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&layout=compact&theme=merko)](https://github.com/HekaHub/github-readme-stats)
