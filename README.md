@@ -1,4 +1,4 @@
-## Welcome to my profile 👋
+# Welcome to my profile 👋
 <img src='https://cdn.discordapp.com/attachments/951697286470201384/961665517628842064/-1rgewegrgre.png'>
 
 # Languages and Tools:
@@ -11,6 +11,6 @@
 ![NPM](https://shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM)
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
-## Github Stats
+# Github Stats
 ![GitHub](https://github-readme-stats.vercel.app/api?username=HekaHub&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekaHub&layout=compact&theme=merko)](https://github.com/HekaHub/github-readme-stats)
