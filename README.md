@@ -2,7 +2,7 @@
 <img src='https://cdn.discordapp.com/attachments/951697286470201384/961665517628842064/-1rgewegrgre.png'>
 
 # Languages and Tools:
-![JavaScript](https://shields.io/badge/-JavaScript-ecab19?style=flat-square&logo=javascript&logoColor=ffffff)
+![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=e9d54d)
 ![NodeJS](https://shields.io/badge/-NodeJS-448543?style=flat-square&logo=node.js&logoColor=ffffff)
 ![HTML](https://shields.io/badge/-HTML5-e2512f?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://shields.io/badge/-CSS3-245a93?style=flat-square&logo=css3&logoColor=ffffff)
