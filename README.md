@@ -5,7 +5,7 @@
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=e9d54d)
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![HTML](https://shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![CSS](https://shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=2966c2)
 ![NPM](https://shields.io/badge/-NPM-ca3a3a?style=flat-square&logo=npm&logoColor=ffffff)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-3a7aaf?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ## Github Stats
