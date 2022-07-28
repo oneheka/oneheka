@@ -13,6 +13,7 @@
 ![React](https://shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Vue](https://shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
 ![Nuxt](https://shields.io/badge/-Nuxt-090909?style=for-the-badge&logo=nuxt.js)
+![SCSS](https://shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss)
 ![HTML](https://shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=2966c2)
 ![NPM](https://shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM)
