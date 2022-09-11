@@ -20,7 +20,7 @@
 ![VUETIFY](https://shields.io/badge/-Vuetify-090909?style=for-the-badge&logo=vuetify&logoColor=7cc6fc)
 ![NPM](https://shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM)
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
-![Postgres](https://shields.io/badge/-Postgres-090909?style=for-the-badge&logo=postgressql)
+![Postgres](https://shields.io/badge/-Postgres-090909?style=for-the-badge&logo=postgres)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=32a0ff)
 
 # Github Stats
