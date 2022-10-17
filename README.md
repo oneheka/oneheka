@@ -13,7 +13,7 @@
 ![React](https://shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Vue](https://shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
 ![Nuxt](https://shields.io/badge/-Nuxt-090909?style=for-the-badge&logo=nuxt.js)
-![Nest](https://shields.io/badge/-Nest-090909?style=for-the-badge&logo=nest.js)
+![Nest](https://shields.io/badge/-Nest-090909?style=for-the-badge&logo=nestjs)
 ![ExpressJS](https://shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
 ![SASS](https://shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![HTML](https://shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
