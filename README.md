@@ -3,7 +3,7 @@
 > ## My projects 🌿
 <!-- * Desires — feature-packed, fast-growing discord bot that exploded in 2021 and won the hearts of many users of the Discord platform. -->
 * [Niako](https://niako.xyz/) — is a highly customizable, multifunctional bot that has private rooms, action logging, music, and the icing on the cake is a personal banner based on your server statistics.
-* [Discord Voice Manager](https://github.com/oneheka/Discord-Voice-Manager) — open sorus project for people who need private configs with flexible customization for themselves without embedding in the code.
+* [Discord Voice Manager](https://github.com/oneheka/Discord-Voice-Manager) — open source project for people who need private configs with flexible customization for themselves without embedding in the code.
 
 > ## Langugages & Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
