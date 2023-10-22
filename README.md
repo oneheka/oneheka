@@ -1,11 +1,11 @@
-## Welcome to my profile 👋
+> # Welcome to my profile 👋
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/758717520525000794?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px)](https://oneheka.com/) -->
-## My projects 🌿
+> ## My projects 🌿
 <!-- * Desires — feature-packed, fast-growing discord bot that exploded in 2021 and won the hearts of many users of the Discord platform. -->
 * [Niako](https://niako.xyz/) — is a highly customizable, multifunctional bot that has private rooms, action logging, music, and the icing on the cake is a personal banner based on your server statistics.
 * [Discord Voice Manager](https://github.com/oneheka/Discord-Voice-Manager) — open sorus project for people who need private configs with flexible customization for themselves without embedding in the code.
 
-## Langugages & Tools
+> ## Langugages & Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
@@ -19,5 +19,5 @@
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 ![Postgres](https://shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Statistics
+> ## Statistics
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=oneheka&layout=compact&theme=merko)
