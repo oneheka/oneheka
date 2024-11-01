@@ -2,7 +2,7 @@
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/758717520525000794?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px)](https://oneheka.com/) -->
 > ## My projects 🌿
 <!-- * Desires — feature-packed, fast-growing discord bot that exploded in 2021 and won the hearts of many users of the Discord platform. -->
-* [Niako]([https://niako.xyz](https://github.com/oneweeee/Niako) — is a highly customizable, multifunctional bot that has private rooms, action logging, music, and the icing on the cake is a personal banner based on your server statistics.
+* [Niako](https://github.com/oneweeee/Niako) — is a highly customizable, multifunctional bot that has private rooms, action logging, music, and the icing on the cake is a personal banner based on your server statistics.
 * [Discord Voice Manager](https://github.com/oneheka/Discord-Voice-Manager) — open source project for people who need private configs with flexible customization for themselves without embedding in the code.
 
 > ## Langugages & Tools
